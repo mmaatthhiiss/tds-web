@@ -4,4 +4,13 @@ p span {
 .marron{
 	color : brown ; 
 }
-
+.bleu { 
+	color : blue ; 
+	text-decoration: underline;
+}
+.noir{
+	background-color: black;
+	color :white ; 	
+	margin-left: 150px;
+	margin-right: 200px;
+}
