@@ -1,16 +1,20 @@
-p span {
-	font-weight: bold ;
-}
-.marron{
-	color : brown ; 
-}
-.bleu { 
-	color : blue ; 
-	text-decoration: underline;
-}
-.noir{
-	background-color: black;
-	color :white ; 	
-	margin-left: 150px;
-	margin-right: 200px;
-}
+table {
+    border-collapse:collapse;
+    width:90%;
+    }
+   th, td {
+    border:1px solid gray;
+    width:20%;
+    padding: 10px;
+    }
+   td {
+    text-align:center; 
+    }
+   caption {
+    font-weight:bold
+    }
+    th{
+        background-color: gainsboro;
+    }
+
+    
